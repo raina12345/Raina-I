@@ -1,3 +1,4 @@
+
 perpustakaan = [
     {
         "nama_penulis" : "Osamu Dazai",
@@ -42,6 +43,7 @@ perpustakaan = [
 
     }
 ]
+
 rak = []
 # Menu Utama
 while True :
@@ -220,3 +222,5 @@ while True :
     elif(pilihanMenu == '5') :
         print("SELAMAT TINGGAL")
         break
+
+ 
